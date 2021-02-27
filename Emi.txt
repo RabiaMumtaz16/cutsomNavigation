@@ -1,0 +1,130 @@
+
+
+
+<!DOCTYPE html>
+
+<html>
+<head>
+<title>Emirates</title>
+
+<style>
+body{
+background-image:url("download.png");
+background-attachement:fixed;
+background-repeat:no-repeat;
+
+}
+h1{
+font-size:80px;
+text-align:center;
+color:red;
+
+}
+
+.img-container
+{
+display:block;
+margin-left:auto;
+margin-right:auto;
+width:50%;
+}
+</style>
+</head>
+
+<body>
+<br>
+
+<br>
+<br>
+<h1>Fly Emirates</h1>
+
+
+<h2>History of The Emirates Group</h2>
+
+<p>    The <i>Emirates Group</i> is composed of airport services provider
+ <b>DNATA</b> (the Dubai National Air Transport Association) and Emirates Airlines.
+ Owned by the government of Dubai and based at the busiest airport in the Middle East,
+ Emirates has flourished under the sheikdom's 'wide open skies' policy, in spite of the restrictions
+ placed on it by other countries. The airline, renowned for its luxurious in-flight service, was unique 
+among long-haul airlines in that it had not joined a global alliance such as the Star Alliance or oneworld by the 
+beginning of the new millennium.</p>
+<hr>
+<img src="emi.jpg" style="float:right;">
+<ul>
+   <li><h3>Origins</h3></li>
+</ul>
+
+
+<p>    <b>Dubai</b>, a fishing village at the southern end of the Arabian Gulf, 
+has grown to become one of the leading trade centers of the Middle East, 
+fueled at first by pearls, then petroleum. The Beni Yas tribe assumed control of 
+the town around 1830. The Maktoum family led the tribe throughout the 19th and 20th
+ centuries. Dubai became one of seven sheikdoms in the United Arab Emirates, which was formed in 1970.
+
+As the British pulled out of Dubai in the late 1950s, Sheikh Saeed Al Maktoum decreed an open
+ seas, open skies, and open trade policy, to develop the country into a regional crossroads for
+ trade and tourism. He also required all government agencies to make a profit. The country was aiming 
+to eliminate its dependence on its finite oil reserves within 50 years.
+The Dubai National Air Transport Association (DNATA) was formed in 1959. By the mid-1980s, 
+DNATA had grown to 2,500 employees. In addition to providing support services at Dubai Airport,
+ the company served as sales agent for 26 airlines. Dubai had been used as a stopover on routes 
+between Europe and the Far East since the days of Imperial Airways (precursor to British Airways), which
+ landed its flying boats there en route to Australia. Its open skies policies kept its airport among the busiest in the region.<p>
+
+ <span class="img-container"><img src="emii.jpg"></span> <pre style="font-family:areal;">  Gulf Air began to cut back its service to Dubai in the mid-1980s. As a result, 
+Emirates Airlines was conceived in <mark>March 1985</mark> with backing from Dubai's royal family, whose Dubai Air Wing provided 
+two of the airline's first aircraft, used Boeing 727s. (An Airbus A300 and Boeing 737 were two others.) 
+Because of Dubai's unique political structure, wrote Douglas Nelms in Air Transport World, Emirates could 
+be described as both government-owned and privately held, though most considered it state-owned. It was
+ required to operate independent of government subsidies, however, apart from $10 million in start-up capital.
+
+Maurice Flanagan was named managing director of the new airline. Formerly of the Royal Air Force, 
+British Airways, and Gulf Air, Flanagan had been seconded to DNATA in 1978 on a two-year assignment as assistant general sales manager.
+
+Chairman was Sheikh Ahmed bin Saeed Al Maktoum, nephew of the ruler of Dubai. Only 27 years 
+old in 1985, he had graduated from the University of Colorado just four years earlier (his degree 
+was in political science and economics). Sheik Ahmed also became chairman of Dubai Civil Aviation and 
+DNATA itself. Although he lacked any direct experience in the airline industry, Sheikh Ahmed embraced
+ his new role, learning to fly a variety of aircraft along the way. As Lisa Coleman duly noted in Chief 
+Executive, he was indeed experienced in one area that would be the new airline's defining trait: luxury. 
+From the beginning, Emirates boasted a tradition of providing the best creature comforts available at 40,000 feet.
+
+The first flight, Dubai-Karachi on October 25, 1985, was a Pakistani connection in more ways than one. The 
+airline leased the aircraft, an Airbus 300, from Pakistan International Airlines. Bombay and Delhi were the 
+other two earliest destinations. From the beginning, Emirates flights carried both passengers and cargo.
+
+Emirates was profitable within nine months. During its first year, it carried 260,000 passengers and 10,000 
+tons of freight. Gulf Air, part owned by the much more wealthy neighboring emirate Abu Dhabi, had previously
+ dominated air traffic in the region. Its profits fell more than 30 percent during the first year of its new
+ rival's operations, however, prompting Gulf Air to drop its privatization plans. The next year, Gulf Air posted a loss.
+
+In its second year, Emirates also posted a loss, before setting out on decades of profitable growth. 
+One reason for the success of Emirates was its aggressive marketing. Another was the high level of 
+in-flight service in its new Airbus aircraft, which it outfitted with generously spaced seating.
+
+<img src="emiii.jpg">In 1986, Colombo, Dhaka, Amman, and Cairo were added to the route network. Emirates launched daily
+ nonstop service to London (Gatwick) on July 6, 1987 with two new Airbus A310s. This complemented the
+ overnight flights British Caledonian was sending to and from Dubai. Other destinations added in 1987 
+were Frankfurt via Istanbul, and Male (Maldive Islands). Emirates lacked a regional feeder network since
+ most of its neighboring countries were shareholders in rival Gulf Air.
+
+This impressive early growth came as the region was experiencing a business downturn, with the Gulf 
+War a contributing factor, and the subsequent laying off of expatriate workers--both bad news for the 
+air travel industry. In its second year, competitors accused Emirates of starting a price war. The airline
+ countered that its lower fares were stimulating traffic, not stealing it from its rivals. By the end of 1987,
+ <em>Emirates</em> was serving 11 destinations.
+
+
+
+
+</pre>
+
+
+
+</body>
+
+
+
+
+
+</html>
