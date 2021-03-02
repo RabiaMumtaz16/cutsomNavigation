@@ -12,13 +12,13 @@
 
 <body>
 
-<h3>
-H3 Heading
-</h3>
+<h1>
+H1 Heading
+</h1>
 
-<h4>
-H4 Heading
-</h4>
+<h2>
+My New h2 Heading
+</h2>
 
 
 </body>
