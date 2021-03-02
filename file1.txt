@@ -12,30 +12,13 @@
 
 <body>
 
-<h1>Covid-19</h1>
+<h3>
+H3 Heading
+</h3>
 
-<h2>Find Out What Your Child Already Knows</h2>
-
-<h3>Ask questions</h3>
-<p>For older kids, you might ask, "What are you hearing 
-about coronavirus? </p>
-
-<h3>Follow your child's lead.</h3>
-
-
-<h2>Offer Comfort — and Honesty</h2>
-
-<h3>Focus on helping your child feel safe, but be truthful.</h3>
-
-
-<h3>If your child asks about something and you don't know the answer, say so.</h3>
-
-<h3>Speak calmly and reassuringly.</h3>
-
-<h3>Give kids space to share their fears. </h3>
-
-
-<h3>Know when they need guidance. </h3>
+<h4>
+H4 Heading
+</h4>
 
 
 </body>
