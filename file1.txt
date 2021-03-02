@@ -8,25 +8,6 @@
 <head>
 <title>covid</title>
 
-<style>
-body{
-background-image:url("covid-10.JPG");
-background-repeat:no-repeat;
-background-attachment:fixed;
-background-size:100% 100%;
-background-blend-mode: lighten;
-opacity:1;
-}
-
-h1,h2,h3,p{
-color:white;
-}
-
-h1{
-text-align:center;
-}
-
-</style>
 </head>
 
 <body>
