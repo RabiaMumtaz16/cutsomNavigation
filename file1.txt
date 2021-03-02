@@ -12,48 +12,12 @@
 
 <body>
 
+<h1>
+H1 Heading<h1>
 
-
-<<<<<<< HEAD
-<h3>Ask questions geared to your child's age level.</h3>
-<p>to find out if they're hearing
- the wrong information.</p>
-=======
-<h3>Ask questions</h3>
-<p>For older kids, you might ask, "What are you hearing 
-about coronavirus? </p>
->>>>>>> c0539df98bc831532930d548cd3201611c8339f8
-
-<h3>Follow your child's lead.</h3>
-
-
-<h2>Offer Comfort — and Honesty</h2>
-
-<h3>Focus on helping your child feel safe, but be truthful.</h3>
-<<<<<<< HEAD
-<p>Don't offer more detail than your child is interested in. 
-</p>
-
-<h3>If your child asks about something and you don't know the answer, say so.</h3>
-<p> Use the question as a chance to find out together. </p>
-
-
-<h3>If your child asks about something and you don't know the answer, say so.</h3>
->>>>>>> c0539df98bc831532930d548cd3201611c8339f8
-
-<h3>Speak calmly and reassuringly.</h3>
-
-<h3>Give kids space to share their fears. </h3>
-<<<<<<< HEAD
-<p>  It's natural for kids to worry, "Could I be next?</p>
-
-<h3>Know when they need guidance. </h3>
-<p>  Be aware of how your kids get news and information, 
-</p>
-
-
-<h3>Know when they need guidance. </h3>
-
+<h2>
+New heading added
+</h2>
 
 
 </body>
