@@ -17,7 +17,7 @@ H1 Heading
 </h1>
 
 <h2>
-My New h2 Heading
+h2 heading
 </h2>
 
 
