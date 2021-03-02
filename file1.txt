@@ -14,12 +14,23 @@
 <h1>
 H1 Heading<h1>
 
+<<<<<<< HEAD
 <h2>
 New heading added
 </h2>
 
 
 
+=======
+<h1>
+H1 Heading
+</h1>
+
+<h2>
+My New h2 Heading
+</h2>
+
+>>>>>>> d712a9109b991f4dd500d0c39493a74ff7791d01
 
 </body>
 
