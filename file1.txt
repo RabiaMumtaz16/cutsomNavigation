@@ -12,7 +12,7 @@
 
 <body>
 
-<h1>Coronavirus Covid-19</h1>
+<h1>Covid-19</h1>
 
 <h2>Find Out What Your Child Already Knows</h2>
 
@@ -20,7 +20,7 @@
 <p>For older kids, you might ask, "What are you hearing 
 about coronavirus? What questions do you have?" For younger children,
  you could say, "Do you have questions about the new sickness that's going around?"
- This gives you a chance to learn how much kids know — and to find out if they're hearing
+ This gives you a chance to learn how much kids know â€” and to find out if they're hearing
  the wrong information.</p>
 
 <h3>Follow your child's lead.</h3>
@@ -28,7 +28,7 @@ about coronavirus? What questions do you have?" For younger children,
  But if your kids don't seem interested or don't
  ask a lot of questions, that's OK.</p>
 
-<h2>Offer Comfort — and Honesty</h2>
+<h2>Offer Comfort â€” and Honesty</h2>
 
 <h3>Focus on helping your child feel safe, but be truthful.</h3>
 <p>Don't offer more detail than your child is interested in. 
