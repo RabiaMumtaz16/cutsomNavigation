@@ -16,6 +16,7 @@ H1 Heading<h1>
 
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 <h2>
 New heading added
 </h2>
@@ -25,11 +26,14 @@ New heading added
 =======
 =======
 >>>>>>> d712a9109b991f4dd500d0c39493a74ff7791d01
+=======
+>>>>>>> c7c77a3cf0413d44e6a1d968f878499ec3976855
 <h1>
 H1 Heading
 </h1>
 
 <h2>
+<<<<<<< HEAD
 My New h2 Heading
 </h2>
 
@@ -37,6 +41,11 @@ My New h2 Heading
 >>>>>>> d712a9109b991f4dd500d0c39493a74ff7791d01
 =======
 >>>>>>> d712a9109b991f4dd500d0c39493a74ff7791d01
+=======
+h2 heading
+</h2>
+
+>>>>>>> c7c77a3cf0413d44e6a1d968f878499ec3976855
 
 </body>
 
